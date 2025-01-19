@@ -7,8 +7,9 @@
 
 - 🤝 I’m looking for help with [Flutter](https://github.com/AshutoshRudraksh/NavAI)
 
-- 📫 How to reach me **rudrakshashutosh.gmail.com**
+- 📫 How to reach me **rudrakshahutosh.gmail.com**
 
+- 📄 Know about my experiences [https://ashutoshrudraksh.github.io/Resume.github.io/Resume.pdf](https://ashutoshrudraksh.github.io/Resume.github.io/Resume.pdf)
 
 <p align="left">
 </p>

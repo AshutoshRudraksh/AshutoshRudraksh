@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Flutter](https://github.com/AshutoshRudraksh/NavAI)
 
-- 📫 How to reach me **rudrakshahutosh.gmail.com**
+- 📫 How to reach me **rudrakshashutosh.gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

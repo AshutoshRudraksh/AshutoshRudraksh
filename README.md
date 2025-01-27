@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on [NavAI](https://github.com/AshutoshRudraksh/NavAI)
 
-- 👯 I’m looking to collaborate on [NavAI](https://github.com/AshutoshRudraksh/NavAI)
-
-- 🤝 I’m looking for help with [Flutter](https://github.com/AshutoshRudraksh/NavAI)
-
 - 📫 How to reach me **rudrakshahutosh.gmail.com**
 
 - 📄 Know about my experiences [https://ashutoshrudraksh.github.io/Resume.github.io/Resume.pdf](https://ashutoshrudraksh.github.io/Resume.github.io/Resume.pdf)

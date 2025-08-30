@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Rudraksh</h1>
-<h3 align="center">A passionate about building valuable AI products</h3>
+<h3 align="center">A passionate about building scalable AI systems, backend microservices, and data-driven products </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshrudraksh&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshrudraksh" /> </p>
 

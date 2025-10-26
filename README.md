@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ashu1190781" target="blank"><img src="https://img.shields.io/twitter/follow/ashu1190781?logo=twitter&style=for-the-badge" alt="ashu1190781" /></a> </p>
 
-- 🔭 I’m currently working on [NavAI](https://github.com/AshutoshRudraksh/NavAI)
+- 🔭 I’m currently working on [NavAI](https://github.com/AshutoshRudraksh/NAVAIv02)
 
 - 🌱 I’m currently learning **Agentic Systems, Micro-economics**
 
-- 👯 I’m looking to collaborate on [NavAI](https://github.com/AshutoshRudraksh/NavAI)
+- 👯 I’m looking to collaborate on [NavAI](https://github.com/AshutoshRudraksh/NAVAIv02)
 
-- 🤝 I’m looking for help with [Flutter](https://github.com/AshutoshRudraksh/NavAI)
+- 🤝 I’m looking for help with [Flutter](https://github.com/AshutoshRudraksh/NAVAIv02)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshutoshRudraksh](https://github.com/AshutoshRudraksh)
 
